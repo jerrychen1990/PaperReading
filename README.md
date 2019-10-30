@@ -4,3 +4,5 @@
 - [《Text Generation from Knowledge Graphs with Graph Transformers》](../master/notes/TextFromKG.md)
   knowledge graph -> text
 
+## Recommendation
+- [《DKN: Deep Knowledge-Aware Network for News Recommendation》](../master/notes/DKN-news-recommend.md)]
