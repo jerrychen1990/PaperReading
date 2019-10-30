@@ -2,7 +2,9 @@
 对阅读过的论文做一个整理、记录
 ## Generative Model
 - [《Text Generation from Knowledge Graphs with Graph Transformers》](../master/notes/TextFromKG.md)
-  knowledge graph -> text
 
+  通过知识图谱生成文本，知识抽取的逆任务
 ## Recommendation
 - [《DKN: Deep Knowledge-Aware Network for News Recommendation》](../master/notes/DKN-news-recommend.md)]
+
+  在基于文本内容的推荐中引入通用知识图谱的信息
