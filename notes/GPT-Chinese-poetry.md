@@ -1,4 +1,4 @@
-##《GPT-based Generation for Classical Chinese Poetry》
+## [《GPT-based Generation for Classical Chinese Poetry》](https://arxiv.org/pdf/1907.00151.pdf)
 
 - 目标：根据输入的格式（对联、绝句、律诗、词牌名） + 主体（诗名、词名、藏头诗的头），生成相应格式的对联、诗、词
 - 诗歌生成的难点：
