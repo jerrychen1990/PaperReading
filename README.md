@@ -5,6 +5,10 @@
 
     经典论文，深刻理解transformer必读
 
+- [《Improving Language Understandingby Generative Pre-Training》](../master/notes/GPT.md)
+
+    GPT预训练模型,用于生成任务
+
 - [《Text Generation from Knowledge Graphs with Graph Transformers》](../master/notes/TextFromKG.md)
 
     通过知识图谱生成文本，知识抽取的逆任务
