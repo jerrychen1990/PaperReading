@@ -28,4 +28,4 @@
 - 预测
     - decoder端输入一个序列，预测的下一个token就是decoder输出的最后一个embedding
     - encoder只需要编码一次，然后把encoder的各层输出给decoder端。 decoder需要计算N次
-    - git: [https://github.com/tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)
+- git: [https://github.com/tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor)
