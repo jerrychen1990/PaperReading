@@ -1,9 +1,13 @@
 # PaperReading
 对阅读过的论文做一个整理、记录
 ## Generative Model
+- [《Attention is all you need》](../master/notes/Transfomer.md)
+
+    经典论文，深刻理解transformer必读
+
 - [《Text Generation from Knowledge Graphs with Graph Transformers》](../master/notes/TextFromKG.md)
 
-  通过知识图谱生成文本，知识抽取的逆任务
+    通过知识图谱生成文本，知识抽取的逆任务
 
 - [《GPT-based Generation for Classical Chinese Poetry》](../master/notes/GPT-Chinese-poetry.md)
 
