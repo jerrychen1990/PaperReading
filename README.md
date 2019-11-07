@@ -1,7 +1,7 @@
 # PaperReading
 对阅读过的论文做一个整理、记录
 ## Generative Model
-- [《Attention is all you need》](../master/notes/Transfomer.md)
+- [《Attention is all you need》](../master/notes/Transformer.md)
 
     经典论文，深刻理解transformer必读
 
