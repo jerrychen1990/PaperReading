@@ -19,6 +19,10 @@
 - [《Neural Open Information Extraction》](../master/notes/neural_openie.md)
 
     用seq2seq的方式做open information extraction
+    
+- [《KG-BERT: BERT for Knowledge Graph Completion》](../master/notes/KG-BERT.md)
+
+    基于BERT，不依赖原文的做NRE
  
 ## Generative Model
 
