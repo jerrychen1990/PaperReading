@@ -1,5 +1,9 @@
 # PaperReading
 对阅读过的论文做一个整理、记录
+## survey
+- [A Survey on Deep Learning for Named Entity Recognition](../master/notes/survey-NER.md)
+    如题，2018年的survey
+
 ## knowledge extraction
 - [Matching the Blanks: Distributional Similarity for Relation Learning](../master/notes/MTB.md)
     
