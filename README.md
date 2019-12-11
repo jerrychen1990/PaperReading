@@ -1,12 +1,12 @@
 # PaperReading
-对阅读过的论文做一个整理、记录
-## must read
+对阅读过的论文做一个整理、记录(主要是NLP方向)
+## Must Read
 
 - [《Attention is all you need》](../master/notes/Transformer.md)
 
     深刻理解transformer必读
 
-## survey
+## Survey
 - [《A Survey on Deep Learning for Named Entity Recognition》](../master/notes/survey-NER.md)
     
     如题，2018年的survey
@@ -16,7 +16,7 @@
     如题，2018年的survey，NN在Open IE领域的应用还不多
 
 
-## information extraction
+## Information Extraction
 - [《Matching the Blanks: Distributional Similarity for Relation Learning》](../master/notes/MTB.md)
     
     通过在大量unlabeled语料预训练，得到一个通用的关系表征模型
