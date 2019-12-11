@@ -10,6 +10,11 @@
 - [《A Survey on Deep Learning for Named Entity Recognition》](../master/notes/survey-NER.md)
     
     如题，2018年的survey
+    
+- [《A Survey on Open Information Extraction》](../master/notes/survey-OPENIE.md)
+
+    如题，2018年的survey，NN在Open IE领域的应用还不多
+
 
 ## information extraction
 - [《Matching the Blanks: Distributional Similarity for Relation Learning》](../master/notes/MTB.md)
