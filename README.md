@@ -29,6 +29,11 @@
 
     基于BERT，不依赖原文的做NRE
  
+- [《Supervised Open Information Extraction》](../master/notes/supervised-openie.md)
+
+    引入SRL信息，用one-pass sequence labeling的方式做openie
+ 
+ 
 ## Generative Model
 
 - [《Improving Language Understandingby Generative Pre-Training》](../master/notes/GPT.md)
