@@ -5,6 +5,10 @@
 - [《Attention is all you need》](../master/notes/Transformer.md)
 
     深刻理解transformer必读
+    
+- [《Beyond Accuracy: Behavioral Testing of NLP Models with CheckList》](../master/notes/beyond_the_accuracy.md)
+    
+    借鉴软件工程的思想，用checklist来测评模型的效果
 
 ## Survey
 - [《A Survey on Deep Learning for Named Entity Recognition》](../master/notes/survey-NER.md)
@@ -32,7 +36,11 @@
 - [《Supervised Open Information Extraction》](../master/notes/supervised-openie.md)
 
     引入SRL信息，用one-pass sequence labeling的方式做openie
- 
+    
+- [《TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking》](../master/notes/tplinker.md)
+
+    用token pair的编码方式，一步预测出schema-given的spo抽取问题
+    
  
 ## Generative Model
 
